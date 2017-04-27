@@ -1,0 +1,1 @@
+cmd_/home/piqueras/Documentos/DRIVER/rtl8812au-master/8812au.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/piqueras/Documentos/DRIVER/rtl8812au-master/8812au.ko /home/piqueras/Documentos/DRIVER/rtl8812au-master/8812au.o /home/piqueras/Documentos/DRIVER/rtl8812au-master/8812au.mod.o ;  true
