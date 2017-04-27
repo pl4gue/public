@@ -1,0 +1,17 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Dice hola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Pedro Piqueras",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
